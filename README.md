@@ -87,23 +87,4 @@
 | 🎬 **[AI Video Factory](https://github.com/akularya6-del/ai-video-factory-public)** | 100% serverless, zero-cost pipeline on GitHub Actions creating and uploading YouTube Shorts. | `JavaScript`, `FFmpeg`, `OpenAI` |
 | 🔮 **[Oracle LLM Proxy](https://github.com/akularya6-del/oracle-llm-proxy)** | LiteLLM-based proxy with PostgreSQL backend for routing and benchmarking AI providers. | `Python`, `Docker`, `PostgreSQL` |
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akularya6-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akularya6-del&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akularya6-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-  <br/><br/>
-  <img src="https://profile-counter.glitch.me/akularya6-del/count.svg" alt="Visitor Count" />
-</div>
+--
