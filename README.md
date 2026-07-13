@@ -9,7 +9,7 @@
 <div align="center">
   
   <a href="https://github.com/akularya6-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akul+Arya+👋;Full-Stack+AI+Developer;Building+Multi-Agent+Systems;Crafting+Scalable+Backends" alt="Typing SVG" />
+    <img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=RACOON+IS+HIGH" alt="Typing SVG" />
   </a>
   
   <p align="center">
