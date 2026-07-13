@@ -16,16 +16,7 @@
     <strong>Architecting intelligent systems, robust APIs, and modern web applications.</strong>
     <br />
     <br />
-    <a href="[PLACEHOLDER_LINKEDIN_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="[PLACEHOLDER_PORTFOLIO_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:[PLACEHOLDER_EMAIL]" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+    </p>
 </div>
 
 ---
